@@ -1,0 +1,7 @@
+/* pages/aaa/aaa.wxss */
+.title{
+    font-size: 40rpx;
+    text-align: center;
+    display: block;
+    padding: 20rpx;
+}

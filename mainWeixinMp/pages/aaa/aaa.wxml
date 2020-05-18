@@ -1,0 +1,6 @@
+<!--pages/aaa/aaa.wxml-->
+<text class="title">小程序预览页</text>
+<navigator url="plugin-private://wxbc438e4fceac3a5e/pages/index/index">
+    <button>跳转去插件页</button>
+</navigator>
+<hello-component/>

@@ -1,0 +1,11 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"pluginRoot": "uniSubpackage/",
+	"compileType": "plugin",
+	"setting": {},
+	"appid": "wxbc438e4fceac3a5e",
+	"projectname": "uniapp2wxpack开发微信小程序插件",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}

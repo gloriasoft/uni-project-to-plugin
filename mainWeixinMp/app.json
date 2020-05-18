@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/aaa/aaa"
+  ],
+  "subPackages": [],
+  "usingComponents": {},
+  "plugins": {
+    "hello-plugin": {
+      "version": "dev",
+      "provider": "wxbc438e4fceac3a5e"
+    }
+  }
+}
