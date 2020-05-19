@@ -16,8 +16,8 @@ build:mp-weixin-pack
 dev:mp-weixin-pack  
 build:mp-weixin-pack-plugin  
 dev:mp-weixin-pack-plugin  
-并且会创建文件projectToSubPackageConfig.js  
-创建目录mainWeixinMp  
+并且会自动创建文件projectToSubPackageConfig.js  
+自动创建目录mainWeixinMp（此目录打包后会成为miniprogram目录，也就是插件开发模式的预览小程序）  
 
 ### 第三步  
 手动在项目根目录创建插件开发需要的project.config.json，并且内容miniprogramRoot和pluginRoot属性按以下填写  
