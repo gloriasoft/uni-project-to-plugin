@@ -1,5 +1,6 @@
 <!--pages/aaa/aaa.wxml-->
 <text class="title">小程序预览页</text>
+<text class="title">请将相关地方的appid设置正确</text>
 <navigator url="plugin-private://xxxxxxxxxxx/pages/index/index">
     <button>跳转去插件页(将url地址调整正确)</button>
 </navigator>
